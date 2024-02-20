@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Black+Ops+One&family=Kanit:ital,wght@0,100;1,600;1,900&family=Protest+Riot&family=Protest+Strike&family=Signika+Negative&display=swap');
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #5175AD;
+}
+
+.main_header {
+    width: 80%;
+    height: 100%;
+    background-color: #39547f;
+    display: flex;
+	margin: auto;
+    padding: 30px;
+    font-family: 'Protest Riot', sans-serif;
+    color: #a0a5a6;
+    justify-content: space-between;   
+}
+
+
+
+.menu_main {
+    font-size: 24px;
+    margin: 0;
+    padding: auto;
+}
+
+h3 {
+    color: white;
+	font-family: 'Signika Negative', sans-serif;
+    margin: 20px;
+}
+
+p {
+    color: white;
+    font-family: 'Protest Riot', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #DAEAFF;
+}
+
+h1 {
+    margin: 0;
+    margin-left: 20px;
+}
+
+.description {
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size: 15px;
+/*     margin: 20px; */
+}
+
+.text {
+	margin: 15px;
+}
+/* .text {
+	display: flex;
+    color: white;
+    justify-content: center;
+    font-size: 15px;
+    margin: 20px;
+}
+ */
+
+.main_content {
+	width: 80%;
+	height: 2200px;
+	background-color: #466494;
+	margin: 0 auto;
+}
+
+img {
+	width:300px;
+}
+
+.rightimg {
+	float:right;
+	margin: 20px;
+}
+.prof_past {
+	text-align: center;
+    color: white;
+    font-size: 15px;
+	padding: 10px;
+}
+
+.table {
+	color: #DAEAFF;
+	background-color: #5175AD;
+	margin-left: 40px;
+	margin-right: 40px;
+	display: flex;
+	justify-content: center;
+}
+
+.table_2 {
+	color: #DAEAFF;
+	background-color: #5175AD;
+	margin-left: 40px;
+	margin-right: 40px;
+	display: flex;
+	justify-content: center;
+
+}
+
+.table_3 {
+	color: #DAEAFF;
+	background-color: #5175AD;
+	margin-left: 40px;
+	margin-right: 40px;
+	display: flex;
+	justify-content: center;
+
+}
+
+td {
+	color: #DAEAFF;
+	border: dashed 7px;
+	border-color: #2e4468;
+}
+
+td:nth-child(2){
+	width:2000px;
+}
+
+
+
+th {
+	color: #DAEAFF;
+	border: dashed 7px;
+	border-color: #2e4468;
+}
