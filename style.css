@@ -119,11 +119,12 @@ img {
 	display: flex;
 	justify-content: center;
 
+
 }
 
 td {
 	color: #DAEAFF;
-	border: dashed 7px;
+	border: solid 2px;
 	border-color: #2e4468;
 }
 
@@ -135,6 +136,6 @@ td:nth-child(2){
 
 th {
 	color: #DAEAFF;
-	border: dashed 7px;
+	border: solid 2px;
 	border-color: #2e4468;
 }
