@@ -33,11 +33,13 @@ h3 {
     color: white;
 	font-family: 'Signika Negative', sans-serif;
     margin: 20px;
+	font-size: 24px;
 }
 
 p {
     color: white;
     font-family: 'Protest Riot', sans-serif;
+	font-size:24px;
 }
 
 a {
@@ -136,6 +138,5 @@ td:nth-child(2){
 
 th {
 	color: #DAEAFF;
-	border: solid 2px;
-	border-color: #2e4468;
+	border: 1px double #2e4468;
 }
