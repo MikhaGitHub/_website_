@@ -15,10 +15,11 @@ body {
     background-color: #39547f;
     display: flex;
 	margin: auto;
-    padding: 30px;
+    padding: 20px;
     font-family: 'Protest Riot', sans-serif;
     color: #a0a5a6;
-    justify-content: space-between;   
+    justify-content: space-between;
+	font-size: 20px;
 }
 
 
@@ -32,7 +33,9 @@ body {
 h3 {
     color: white;
 	font-family: 'Signika Negative', sans-serif;
-    margin: 20px;
+    margin-top: 20px;
+	margin-left: 10px;
+	margin-bottom: 60px;
 	font-size: 24px;
 }
 
@@ -40,6 +43,7 @@ p {
     color: white;
     font-family: 'Protest Riot', sans-serif;
 	font-size:24px;
+	margin-left: 27px;
 }
 
 a {
@@ -133,4 +137,9 @@ td:nth-child(2){
 th {
 	color: #DAEAFF;
 	border: 1px double #2e4468;
+}
+img {
+	float: right;
+	width: 800px;
+	height: 400px;
 }
